@@ -1,4 +1,4 @@
-# VR Color Constancy and Chromatic Adaptation Experiment
+# Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency
 
 This repository contains the implementation and experimental framework used to study **color constancy and temporal chromatic adaptation in immersive Virtual Reality (VR) environments**.
 
@@ -15,7 +15,7 @@ If you use this repository, please cite:
 
 ```bibtex
 @article{vr_color_constancy,
-  title   = {VR Color Constancy and Chromatic Adaptation in Virtual Reality},
+  title   = {Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency},
   journal = {The Visual Computer}
 }
 ```
