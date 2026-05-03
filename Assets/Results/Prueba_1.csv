@@ -1,0 +1,9 @@
+Lighting	Time	CheckScene	Choose Option	Pos 0	Pos 1	Pos 2	Pos 3	Pos 4	Pos 5	Pos 6	Pos 7	Pos 8
+Red	20	0	S05N (Instance)	S05Y (Instance)	S05B (Instance)	S05G50Y (Instance)	S05B50G (Instance)	S05G (Instance)	S05R (Instance)	S05R50B (Instance)	S05Y50R (Instance)	S05N (Instance)
+Green	20	0		S05Y (Instance)	S05Y50R (Instance)	S05G50Y (Instance)	S05B (Instance)	S05N (Instance)	S05R50B (Instance)	S05B50G (Instance)	S05G (Instance)	S05R (Instance)
+Green	40	0		S05Y50R (Instance)	S05B50G (Instance)	S05B (Instance)	S05R50B (Instance)	S05R (Instance)	S05N (Instance)	S05G50Y (Instance)	S05Y (Instance)	S05G (Instance)
+Green	60	0		S05B50G (Instance)	S05R (Instance)	S05G (Instance)	S05G50Y (Instance)	S05R50B (Instance)	S05Y (Instance)	S05B (Instance)	S05Y50R (Instance)	S05N (Instance)
+Blue	20	0		S05G50Y (Instance)	S05N (Instance)	S05Y (Instance)	S05R50B (Instance)	S05B (Instance)	S05G (Instance)	S05R (Instance)	S05Y50R (Instance)	S05B50G (Instance)
+Green	20	0		S05Y50R (Instance)	S05G50Y (Instance)	S05Y (Instance)	S05B50G (Instance)	S05N (Instance)	S05R (Instance)	S05G (Instance)	S05R50B (Instance)	S05B (Instance)
+Green	40	0		S05R50B (Instance)	S05R (Instance)	S05B50G (Instance)	S05N (Instance)	S05Y50R (Instance)	S05B (Instance)	S05Y (Instance)	S05G50Y (Instance)	S05G (Instance)
+Green	60	0		S05G (Instance)	S05Y (Instance)	S05G50Y (Instance)	S05B (Instance)	S05N (Instance)	S05B50G (Instance)	S05Y50R (Instance)	S05R50B (Instance)	S05R (Instance)

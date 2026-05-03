@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\Documents\\UnityProjects\\ColorConstancyVR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9584AA1F-C6B5-82E2-D64A-0AA8F54EBA58}|SteamVR.csproj|c:\\users\\frank\\documents\\unityprojects\\colorconstancyvr\\assets\\steamvr\\extras\\steamvr_laserpointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9584AA1F-C6B5-82E2-D64A-0AA8F54EBA58}|SteamVR.csproj|solutionrelative:assets\\steamvr\\extras\\steamvr_laserpointer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9584AA1F-C6B5-82E2-D64A-0AA8F54EBA58}|SteamVR.csproj|c:\\users\\frank\\documents\\unityprojects\\colorconstancyvr\\assets\\steamvr\\input\\steamvr_behaviour_pose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9584AA1F-C6B5-82E2-D64A-0AA8F54EBA58}|SteamVR.csproj|solutionrelative:assets\\steamvr\\input\\steamvr_behaviour_pose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SteamVR_LaserPointer.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\UnityProjects\\ColorConstancyVR\\Assets\\SteamVR\\Extras\\SteamVR_LaserPointer.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Extras\\SteamVR_LaserPointer.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\UnityProjects\\ColorConstancyVR\\Assets\\SteamVR\\Extras\\SteamVR_LaserPointer.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Extras\\SteamVR_LaserPointer.cs",
+              "ViewState": "AgIAAPUCAAAAAAAAAAAmwAwDAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:33:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SteamVR_Behaviour_Pose.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\Documents\\UnityProjects\\ColorConstancyVR\\Assets\\SteamVR\\Input\\SteamVR_Behaviour_Pose.cs",
+              "RelativeDocumentMoniker": "Assets\\SteamVR\\Input\\SteamVR_Behaviour_Pose.cs",
+              "ToolTip": "C:\\Users\\frank\\Documents\\UnityProjects\\ColorConstancyVR\\Assets\\SteamVR\\Input\\SteamVR_Behaviour_Pose.cs",
+              "RelativeToolTip": "Assets\\SteamVR\\Input\\SteamVR_Behaviour_Pose.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T18:32:45.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

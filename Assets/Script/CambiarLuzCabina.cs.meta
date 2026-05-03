@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 0c1c6aec23921ec42b0805156cbc67dc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - csvFilecoord: {fileID: 4900000, guid: 9761a31384a42994ea256dafd6324156, type: 3}
+  - csvFileluz1: {fileID: 4900000, guid: c920d75be580c07449d680785be2163d, type: 3}
+  - csvFileluz2: {fileID: 4900000, guid: 35fc9d84721d3fc40b3c22c739c78dea, type: 3}
+  - csvFileluz3: {fileID: 4900000, guid: 2c901c78d672a4f45b42783d83cb5d55, type: 3}
+  - csvFileluz4: {fileID: 4900000, guid: 0f85d45fa266a9a439a6e5a8d755893d, type: 3}
+  - planoCubo: {instanceID: 0}
+  - planoEsfera: {instanceID: 0}
+  - planoPlaca: {instanceID: 0}
+  - planoPrima: {instanceID: 0}
+  - planoPiramide: {instanceID: 0}
+  - planoColorChecker: {fileID: -927199367670048503, guid: 9fb8f3bc984773d469e1753c086d5f36,
+      type: 3}
+  - PastillaBlanca: {instanceID: 0}
+  - suelo: {instanceID: 0}
+  - fondo: {instanceID: 0}
+  - lateralIzqdo: {instanceID: 0}
+  - lateralDrecho: {instanceID: 0}
+  - frontal: {instanceID: 0}
+  - techo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

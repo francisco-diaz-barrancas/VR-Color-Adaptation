@@ -1,0 +1,25 @@
+Lighting,Time,CheckScene,Option,Pos X,Pos Z
+D50,20,0,Pastilla4,2,34,3,82
+D50,40,0,Pastilla5,-5,87,-9,6
+D50,60,0,Pastilla5,2,34,3,82
+D50,80,0,Pastilla5,4,63,-9,07
+D50,100,0,Pastilla5,-0,88,-3,56
+D50,120,0,Pastilla5,-5,87,-9,6
+D65,20,0,Pastilla7,-5,87,-9,6
+D65,40,0,Pastilla5,4,63,-9,07
+D65,60,0,Pastilla5,9,81,-4,52
+D65,80,0,Pastilla6,-0,88,-3,56
+D65,100,0,Pastilla5,4,63,-9,07
+D65,120,0,Pastilla5,-11,85,-5,64
+A,20,0,,-11,85,-5,64
+A,40,0,Pastilla6,-5,87,-9,6
+A,60,0,Pastilla4,-0,88,-3,56
+A,80,0,PastillaBlanca,-11,85,-5,64
+A,100,0,Pastilla6,-5,87,-9,6
+A,120,0,Pastilla5,-5,87,-9,6
+2Peaks,20,0,Pastilla4,-11,85,-5,64
+2Peaks,40,0,Pastilla3,9,81,-4,52
+2Peaks,60,0,Pastilla3,-6,6,4,34
+2Peaks,80,0,Pastilla4,9,81,-4,52
+2Peaks,100,0,Pastilla4,-11,85,-5,64
+2Peaks,120,0,Pastilla4,-0,88,-3,56
