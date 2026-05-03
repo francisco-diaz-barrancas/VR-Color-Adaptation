@@ -74,7 +74,7 @@ The VR system includes:
 
 To run this project, you need:
 
-* Unity (recommended: Unity 2021 LTS or compatible)
+* Unity (recommended: Unity 2019.1.5 LTS or compatible)
 * SteamVR SDK
 * VR headset (HTC Vive or compatible)
 * Windows OS (recommended)
@@ -146,7 +146,7 @@ To reproduce the experiment:
 ## ⚠️ Notes
 
 * The color transformation (XYZ → RGB) is device-dependent
-* Calibration is based on a specific VR display configuration
+* Calibration is based on a specific VR display configuration (HTC Vive Pro)
 * Results may vary across hardware
 
 ---
