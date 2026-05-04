@@ -32,6 +32,8 @@ This project investigates how human observers adapt to different lighting condit
 
 Participants are immersed in a virtual scene containing color samples (NCS patches) under varying illuminants and are asked to select the patch perceived as neutral.
 
+![Figure 7](seleccion%20(3).png)
+
 ---
 
 ## 🕶️ System Description
