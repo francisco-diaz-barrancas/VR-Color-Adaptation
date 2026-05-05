@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the associated article."
+title: "Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency"
+type: article
+authors:
+  - family-names: "Díaz-Barrancas"
+    given-names: "Francisco"
+  - family-names: "Gil-Llinás"
+    given-names: "Julia"
+  - family-names: "Pardo"
+    given-names: "Pedro J."
+journal: "The Visual Computer"
+status: "submitted"
+repository-code: "https://github.com/francisco-diaz-barrancas/VR-Color-Adaptation"
+abstract: "This repository contains the Unity implementation and processed dataset associated with a study on chromatic adaptation in immersive virtual reality and the effects of illuminant conditions on rendering consistency."
+keywords:
+  - virtual reality
+  - chromatic adaptation
+  - color constancy
+  - illuminant conditions
+  - rendering consistency
+  - visual perception
+license: MIT
