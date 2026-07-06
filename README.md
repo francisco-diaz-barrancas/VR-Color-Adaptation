@@ -8,15 +8,15 @@ The system has been developed in Unity and enables controlled perceptual experim
 
 ## 📄 Related Publication
 
-> **Title:** *VR Color Constancy and Chromatic Adaptation in Virtual Reality*
-> **Journal:** *The Visual Computer*
+> **Title:** *Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency*
+> **Journal:** *Scientific Reports*
 
 If you use this repository, please cite:
 
 ```bibtex
 @article{vr_color_constancy,
   title   = {Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency},
-  journal = {The Visual Computer}
+  journal = {Scientific Reports}
 }
 ```
 
