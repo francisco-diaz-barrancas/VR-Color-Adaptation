@@ -1,5 +1,4 @@
-# Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency
-
+# Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality
 This repository contains the implementation and experimental framework used to study **color constancy and temporal chromatic adaptation in immersive Virtual Reality (VR) environments**.
 
 The system has been developed in Unity and enables controlled perceptual experiments under different illumination conditions using a VR headset.
@@ -8,14 +7,14 @@ The system has been developed in Unity and enables controlled perceptual experim
 
 ## 📄 Related Publication
 
-> **Title:** *Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency*
+> **Title:** *Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality*
 > **Journal:** *Scientific Reports*
 
 If you use this repository, please cite:
 
 ```bibtex
 @article{vr_color_constancy,
-  title   = {Chromatic Adaptation in Immersive Virtual Reality: Effects of Illuminant Conditions on Rendering Consistency},
+  title   = {Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality},
   journal = {Scientific Reports}
 }
 ```
