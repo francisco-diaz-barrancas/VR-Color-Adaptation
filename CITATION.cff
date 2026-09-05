@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite the associated article."
+title: "Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality"
+type: software
+version: "1.0"
+date-released: "2026-09-05"
+authors:
+  - family-names: "Díaz-Barrancas"
+    given-names: "Francisco"
+    affiliation: "Departamento de Informática, Escuela de Ingeniería Informática, Universidad de Valladolid, Spain"
+  - family-names: "Gil-Llinás"
+    given-names: "Julia"
+    affiliation: "Universidad de Extremadura, Badajoz, Spain"
+  - family-names: "Pardo"
+    given-names: "Pedro J."
+    affiliation: "Universidad de Extremadura, Badajoz, Spain"
+repository-code: "https://github.com/francisco-diaz-barrancas/VR-Color-Adaptation"
+abstract: "Unity VR framework, spectral data, processed dataset and analysis scripts (R and Python) of a psychophysical study on achromatic detection under chromatic virtual illumination in immersive virtual reality. Associated article submitted to Scientific Reports."
+keywords:
+  - virtual reality
+  - color rendering
+  - chromatic adaptation
+  - color constancy
+  - achromatic detection
+  - perceptual evaluation
+license: MIT
+preferred-citation:
+  type: article
+  title: "Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality"
+  authors:
+    - family-names: "Díaz-Barrancas"
+      given-names: "Francisco"
+    - family-names: "Gil-Llinás"
+      given-names: "Julia"
+    - family-names: "Pardo"
+      given-names: "Pedro J."
+  journal: "Scientific Reports"
+  status: "submitted"
+  year: 2026
