@@ -8,14 +8,14 @@ The system has been developed in Unity and enables controlled perceptual experim
 ## 📄 Related Publication
 
 > **Title:** *Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality*
-> **Journal:** *Scientific Reports*
+> **Journal:** *Computers & Graphics*
 
 If you use this repository, please cite:
 
 ```bibtex
 @article{vr_color_constancy,
   title   = {Perceptual evaluation of color rendering consistency under chromatic virtual illumination in immersive virtual reality},
-  journal = {Scientific Reports}
+  journal = {Computers & Graphics}
 }
 ```
 
